@@ -1,4 +1,4 @@
-import { getCountriesData } from './countriesData.js';
+import { getCountriesData } from '../api/controllers/countriesData.js';
 const countryFile = "./data/countries.json";
 import fs from "fs";
 

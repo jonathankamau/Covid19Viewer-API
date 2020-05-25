@@ -1,5 +1,21 @@
-app.route('/countries')
-.get(fetchCountryInfo.get_countries);
+import express from 'express';
+import mongoose from 'mongoose';
 
-app.route('/country')
-.get(fetchCountryInfo.get_country_data);
+const router = express.Router();
+import { getCountriesData } from '../controllers/countriesData.js';
+
+var Countries = mongoose.model('Country');
+getCountriesData();
+
+router.get('/countries', (req, res) => {
+    Countries.find({}, function(err, country) {
+        if (err)
+          res.send(err);
+          //console.log('HERE', country);
+        res.json(country);
+        
+      });
+
+});
+
+export default router;

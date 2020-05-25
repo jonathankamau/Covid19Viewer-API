@@ -1,16 +1,19 @@
-import mongoose from 'mongoose';
+import mongoose from 'mongoose';;
 
-var Schema = mongoose.Schema;
+const Schema = mongoose.Schema;
 
-export var CountrySchema = new Schema ({
+
+
+const countrySchema = new Schema ({
     name: {
-        type: String,
+        type: String
     }
 });
 
-export var countryDetailsSchema = new Schema ({
+ const countryDetailsSchema = new Schema ({
     region: {
-        type: String
+        type: String,
+        default: ""
     },
 
     total_confirmed_cases: {
@@ -30,4 +33,7 @@ export var countryDetailsSchema = new Schema ({
 
 
 });
+
+export const Country = mongoose.model('Country', countrySchema);
+//module.exports = mongoose.model('CountryData', countryDetailsSchema);
 
