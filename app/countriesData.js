@@ -15,10 +15,10 @@ export const getCountriesData = async () => {
         
         let countryData =
             {
-                "Region": $(tds[0]).text().trim(),
-                "Total Confirmed Cases": $(tds[1]).text().trim(),
-                "Total Deaths": $(tds[3]).text().trim(),
-                "Total Recovered": $(tds[5]).text().trim()
+                "Region": $(tds[1]).text().trim(),
+                "Total Confirmed Cases": $(tds[2]).text().trim(),
+                "Total Deaths": $(tds[4]).text().trim(),
+                "Total Recovered": $(tds[6]).text().trim()
             };
 
         countries.push(countryData);  

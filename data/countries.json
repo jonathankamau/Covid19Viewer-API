@@ -1,1340 +1,1340 @@
 [
   {
-    "Region": "",
-    "Total Confirmed Cases": "North America",
-    "Total Deaths": "+3,055",
-    "Total Recovered": "+157"
+    "Region": "North America",
+    "Total Confirmed Cases": "1,880,853",
+    "Total Deaths": "114,394",
+    "Total Recovered": "562,629"
+  },
+  {
+    "Region": "South America",
+    "Total Confirmed Cases": "633,783",
+    "Total Deaths": "31,512",
+    "Total Recovered": "242,207"
+  },
+  {
+    "Region": "Europe",
+    "Total Confirmed Cases": "1,911,394",
+    "Total Deaths": "169,984",
+    "Total Recovered": "889,374"
+  },
+  {
+    "Region": "Asia",
+    "Total Confirmed Cases": "967,547",
+    "Total Deaths": "27,546",
+    "Total Recovered": "560,922"
+  },
+  {
+    "Region": "Africa",
+    "Total Confirmed Cases": "113,990",
+    "Total Deaths": "3,375",
+    "Total Recovered": "46,378"
+  },
+  {
+    "Region": "Oceania",
+    "Total Confirmed Cases": "8,726",
+    "Total Deaths": "123",
+    "Total Recovered": "8,088"
   },
   {
     "Region": "",
-    "Total Confirmed Cases": "Europe",
-    "Total Deaths": "+11,578",
-    "Total Recovered": "+217"
+    "Total Confirmed Cases": "721",
+    "Total Deaths": "15",
+    "Total Recovered": "651"
   },
   {
-    "Region": "",
-    "Total Confirmed Cases": "South America",
-    "Total Deaths": "+262",
-    "Total Recovered": "+8"
+    "Region": "World",
+    "Total Confirmed Cases": "5,517,014",
+    "Total Deaths": "346,949",
+    "Total Recovered": "2,310,249"
   },
   {
-    "Region": "",
-    "Total Confirmed Cases": "Asia",
-    "Total Deaths": "+11,247",
-    "Total Recovered": "+190"
+    "Region": "USA",
+    "Total Confirmed Cases": "1,686,436",
+    "Total Deaths": "99,300",
+    "Total Recovered": "451,702"
   },
   {
-    "Region": "",
-    "Total Confirmed Cases": "Africa",
-    "Total Deaths": "+477",
-    "Total Recovered": "+8"
+    "Region": "Brazil",
+    "Total Confirmed Cases": "365,213",
+    "Total Deaths": "22,746",
+    "Total Recovered": "149,911"
   },
   {
-    "Region": "",
-    "Total Confirmed Cases": "Oceania",
-    "Total Deaths": "+15",
-    "Total Recovered": "+1"
+    "Region": "Russia",
+    "Total Confirmed Cases": "353,427",
+    "Total Deaths": "3,633",
+    "Total Recovered": "118,798"
   },
   {
-    "Region": "",
-    "Total Confirmed Cases": "",
-    "Total Deaths": "",
-    "Total Recovered": ""
-  },
-  {
-    "Region": "",
-    "Total Confirmed Cases": "World",
-    "Total Deaths": "+26,634",
-    "Total Recovered": "+581"
+    "Region": "Spain",
+    "Total Confirmed Cases": "282,852",
+    "Total Deaths": "28,752",
+    "Total Recovered": "196,958"
   },
   {
-    "Region": "1",
-    "Total Confirmed Cases": "USA",
-    "Total Deaths": "+515",
-    "Total Recovered": "+10"
+    "Region": "UK",
+    "Total Confirmed Cases": "259,559",
+    "Total Deaths": "36,793",
+    "Total Recovered": "N/A"
   },
   {
-    "Region": "2",
-    "Total Confirmed Cases": "Russia",
-    "Total Deaths": "+8,926",
-    "Total Recovered": "+91"
+    "Region": "Italy",
+    "Total Confirmed Cases": "229,858",
+    "Total Deaths": "32,785",
+    "Total Recovered": "140,479"
   },
   {
-    "Region": "3",
-    "Total Confirmed Cases": "Spain",
-    "Total Deaths": "",
-    "Total Recovered": ""
-  },
-  {
-    "Region": "4",
-    "Total Confirmed Cases": "UK",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "France",
+    "Total Confirmed Cases": "182,584",
+    "Total Deaths": "28,367",
+    "Total Recovered": "64,617"
   },
   {
-    "Region": "5",
-    "Total Confirmed Cases": "Brazil",
-    "Total Deaths": "",
-    "Total Recovered": "+4"
+    "Region": "Germany",
+    "Total Confirmed Cases": "180,328",
+    "Total Deaths": "8,371",
+    "Total Recovered": "161,200"
   },
   {
-    "Region": "6",
-    "Total Confirmed Cases": "Italy",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Turkey",
+    "Total Confirmed Cases": "156,827",
+    "Total Deaths": "4,340",
+    "Total Recovered": "118,694"
   },
   {
-    "Region": "7",
-    "Total Confirmed Cases": "France",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "India",
+    "Total Confirmed Cases": "139,237",
+    "Total Deaths": "4,024",
+    "Total Recovered": "57,745"
   },
   {
-    "Region": "8",
-    "Total Confirmed Cases": "Germany",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Iran",
+    "Total Confirmed Cases": "135,701",
+    "Total Deaths": "7,417",
+    "Total Recovered": "105,801"
   },
   {
-    "Region": "9",
-    "Total Confirmed Cases": "Turkey",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Peru",
+    "Total Confirmed Cases": "119,959",
+    "Total Deaths": "3,456",
+    "Total Recovered": "49,795"
   },
   {
-    "Region": "10",
-    "Total Confirmed Cases": "Iran",
-    "Total Deaths": "+2,294",
-    "Total Recovered": "+69"
+    "Region": "Canada",
+    "Total Confirmed Cases": "84,699",
+    "Total Deaths": "6,424",
+    "Total Recovered": "43,985"
   },
   {
-    "Region": "11",
-    "Total Confirmed Cases": "India",
-    "Total Deaths": "+471",
-    "Total Recovered": "+4"
+    "Region": "Saudi Arabia",
+    "Total Confirmed Cases": "72,560",
+    "Total Deaths": "390",
+    "Total Recovered": "43,520"
   },
   {
-    "Region": "12",
-    "Total Confirmed Cases": "Peru",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Chile",
+    "Total Confirmed Cases": "69,102",
+    "Total Deaths": "718",
+    "Total Recovered": "28,148"
   },
   {
-    "Region": "13",
-    "Total Confirmed Cases": "Canada",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Mexico",
+    "Total Confirmed Cases": "68,620",
+    "Total Deaths": "7,394",
+    "Total Recovered": "47,424"
   },
   {
-    "Region": "14",
-    "Total Confirmed Cases": "Belgium",
-    "Total Deaths": "+279",
-    "Total Recovered": "+28"
+    "Region": "Belgium",
+    "Total Confirmed Cases": "57,342",
+    "Total Deaths": "9,312",
+    "Total Recovered": "15,297"
   },
   {
-    "Region": "15",
-    "Total Confirmed Cases": "Saudi Arabia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Pakistan",
+    "Total Confirmed Cases": "56,349",
+    "Total Deaths": "1,167",
+    "Total Recovered": "17,482"
   },
   {
-    "Region": "16",
-    "Total Confirmed Cases": "Mexico",
-    "Total Deaths": "+2,075",
-    "Total Recovered": "+132"
+    "Region": "Netherlands",
+    "Total Confirmed Cases": "45,236",
+    "Total Deaths": "5,822",
+    "Total Recovered": "N/A"
   },
   {
-    "Region": "17",
-    "Total Confirmed Cases": "Netherlands",
-    "Total Deaths": "+146",
-    "Total Recovered": "+14"
+    "Region": "Qatar",
+    "Total Confirmed Cases": "43,714",
+    "Total Deaths": "23",
+    "Total Recovered": "9,170"
   },
   {
-    "Region": "18",
-    "Total Confirmed Cases": "Chile",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Ecuador",
+    "Total Confirmed Cases": "36,756",
+    "Total Deaths": "3,108",
+    "Total Recovered": "3,560"
   },
   {
-    "Region": "19",
-    "Total Confirmed Cases": "Pakistan",
-    "Total Deaths": "+1,974",
-    "Total Recovered": "+30"
+    "Region": "Belarus",
+    "Total Confirmed Cases": "36,198",
+    "Total Deaths": "199",
+    "Total Recovered": "14,155"
   },
   {
-    "Region": "20",
-    "Total Confirmed Cases": "Qatar",
-    "Total Deaths": "+1,365",
-    "Total Recovered": ""
+    "Region": "Bangladesh",
+    "Total Confirmed Cases": "35,585",
+    "Total Deaths": "501",
+    "Total Recovered": "7,334"
   },
   {
-    "Region": "21",
-    "Total Confirmed Cases": "Ecuador",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Sweden",
+    "Total Confirmed Cases": "33,459",
+    "Total Deaths": "3,998",
+    "Total Recovered": "4,971"
   },
   {
-    "Region": "22",
-    "Total Confirmed Cases": "Switzerland",
-    "Total Deaths": "+10",
-    "Total Recovered": ""
+    "Region": "Singapore",
+    "Total Confirmed Cases": "31,960",
+    "Total Deaths": "23",
+    "Total Recovered": "14,876"
   },
   {
-    "Region": "23",
-    "Total Confirmed Cases": "Belarus",
-    "Total Deaths": "+922",
-    "Total Recovered": "+6"
+    "Region": "Switzerland",
+    "Total Confirmed Cases": "30,736",
+    "Total Deaths": "1,906",
+    "Total Recovered": "28,100"
   },
   {
-    "Region": "24",
-    "Total Confirmed Cases": "Sweden",
-    "Total Deaths": "+234",
-    "Total Recovered": "+19"
+    "Region": "Portugal",
+    "Total Confirmed Cases": "30,623",
+    "Total Deaths": "1,316",
+    "Total Recovered": "17,549"
   },
   {
-    "Region": "25",
-    "Total Confirmed Cases": "Portugal",
-    "Total Deaths": "+173",
-    "Total Recovered": "+13"
+    "Region": "UAE",
+    "Total Confirmed Cases": "29,485",
+    "Total Deaths": "245",
+    "Total Recovered": "15,056"
   },
   {
-    "Region": "26",
-    "Total Confirmed Cases": "Singapore",
-    "Total Deaths": "+305",
-    "Total Recovered": ""
+    "Region": "Ireland",
+    "Total Confirmed Cases": "24,639",
+    "Total Deaths": "1,608",
+    "Total Recovered": "21,060"
   },
   {
-    "Region": "27",
-    "Total Confirmed Cases": "Ireland",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Indonesia",
+    "Total Confirmed Cases": "22,750",
+    "Total Deaths": "1,391",
+    "Total Recovered": "5,642"
   },
   {
-    "Region": "28",
-    "Total Confirmed Cases": "Bangladesh",
-    "Total Deaths": "+1,602",
-    "Total Recovered": "+21"
+    "Region": "South Africa",
+    "Total Confirmed Cases": "22,583",
+    "Total Deaths": "429",
+    "Total Recovered": "11,100"
   },
   {
-    "Region": "29",
-    "Total Confirmed Cases": "UAE",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Poland",
+    "Total Confirmed Cases": "21,440",
+    "Total Deaths": "996",
+    "Total Recovered": "9,276"
   },
   {
-    "Region": "30",
-    "Total Confirmed Cases": "Poland",
-    "Total Deaths": "+217",
-    "Total Recovered": "+4"
+    "Region": "Kuwait",
+    "Total Confirmed Cases": "21,302",
+    "Total Deaths": "156",
+    "Total Recovered": "6,117"
   },
   {
-    "Region": "31",
-    "Total Confirmed Cases": "Ukraine",
-    "Total Deaths": "+325",
-    "Total Recovered": "+21"
+    "Region": "Ukraine",
+    "Total Confirmed Cases": "21,245",
+    "Total Deaths": "623",
+    "Total Recovered": "7,234"
   },
   {
-    "Region": "32",
-    "Total Confirmed Cases": "Indonesia",
-    "Total Deaths": "+496",
-    "Total Recovered": "+43"
+    "Region": "Colombia",
+    "Total Confirmed Cases": "21,175",
+    "Total Deaths": "727",
+    "Total Recovered": "5,016"
   },
   {
-    "Region": "33",
-    "Total Confirmed Cases": "Romania",
-    "Total Deaths": "+165",
-    "Total Recovered": ""
+    "Region": "Romania",
+    "Total Confirmed Cases": "18,070",
+    "Total Deaths": "1,188",
+    "Total Recovered": "11,399"
   },
   {
-    "Region": "34",
-    "Total Confirmed Cases": "Israel",
-    "Total Deaths": "+4",
-    "Total Recovered": ""
+    "Region": "Egypt",
+    "Total Confirmed Cases": "17,265",
+    "Total Deaths": "764",
+    "Total Recovered": "4,807"
   },
   {
-    "Region": "35",
-    "Total Confirmed Cases": "Japan",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Israel",
+    "Total Confirmed Cases": "16,720",
+    "Total Deaths": "280",
+    "Total Recovered": "14,203"
   },
   {
-    "Region": "36",
-    "Total Confirmed Cases": "Austria",
-    "Total Deaths": "+27",
-    "Total Recovered": ""
+    "Region": "Japan",
+    "Total Confirmed Cases": "16,550",
+    "Total Deaths": "820",
+    "Total Recovered": "13,413"
   },
   {
-    "Region": "37",
-    "Total Confirmed Cases": "Kuwait",
-    "Total Deaths": "+841",
-    "Total Recovered": "+6"
+    "Region": "Austria",
+    "Total Confirmed Cases": "16,539",
+    "Total Deaths": "641",
+    "Total Recovered": "15,138"
   },
   {
-    "Region": "38",
-    "Total Confirmed Cases": "Colombia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Dominican Republic",
+    "Total Confirmed Cases": "14,801",
+    "Total Deaths": "458",
+    "Total Recovered": "8,133"
   },
   {
-    "Region": "39",
-    "Total Confirmed Cases": "South Africa",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Philippines",
+    "Total Confirmed Cases": "14,319",
+    "Total Deaths": "873",
+    "Total Recovered": "3,323"
   },
   {
-    "Region": "40",
-    "Total Confirmed Cases": "Philippines",
-    "Total Deaths": "+205",
-    "Total Recovered": "+7"
+    "Region": "Argentina",
+    "Total Confirmed Cases": "12,076",
+    "Total Deaths": "452",
+    "Total Recovered": "3,732"
   },
   {
-    "Region": "41",
-    "Total Confirmed Cases": "Dominican Republic",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Denmark",
+    "Total Confirmed Cases": "11,360",
+    "Total Deaths": "562",
+    "Total Recovered": "9,900"
   },
   {
-    "Region": "42",
-    "Total Confirmed Cases": "Egypt",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "S. Korea",
+    "Total Confirmed Cases": "11,206",
+    "Total Deaths": "267",
+    "Total Recovered": "10,226"
   },
   {
-    "Region": "43",
-    "Total Confirmed Cases": "S. Korea",
-    "Total Deaths": "+15",
-    "Total Recovered": "+1"
+    "Region": "Afghanistan",
+    "Total Confirmed Cases": "11,173",
+    "Total Deaths": "219",
+    "Total Recovered": "1,097"
   },
   {
-    "Region": "44",
-    "Total Confirmed Cases": "Denmark",
-    "Total Deaths": "+41",
-    "Total Recovered": "+1"
+    "Region": "Serbia",
+    "Total Confirmed Cases": "11,159",
+    "Total Deaths": "238",
+    "Total Recovered": "5,857"
   },
   {
-    "Region": "45",
-    "Total Confirmed Cases": "Serbia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Panama",
+    "Total Confirmed Cases": "10,926",
+    "Total Deaths": "306",
+    "Total Recovered": "6,279"
   },
   {
-    "Region": "46",
-    "Total Confirmed Cases": "Panama",
-    "Total Deaths": "+157",
-    "Total Recovered": "+6"
+    "Region": "Bahrain",
+    "Total Confirmed Cases": "9,138",
+    "Total Deaths": "14",
+    "Total Recovered": "4,587"
   },
   {
-    "Region": "47",
-    "Total Confirmed Cases": "Czechia",
-    "Total Deaths": "+5",
-    "Total Recovered": ""
+    "Region": "Czechia",
+    "Total Confirmed Cases": "8,957",
+    "Total Deaths": "315",
+    "Total Recovered": "6,083"
   },
   {
-    "Region": "48",
-    "Total Confirmed Cases": "Norway",
-    "Total Deaths": "",
-    "Total Recovered": "+1"
+    "Region": "Kazakhstan",
+    "Total Confirmed Cases": "8,531",
+    "Total Deaths": "35",
+    "Total Recovered": "4,352"
   },
   {
-    "Region": "49",
-    "Total Confirmed Cases": "Argentina",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Norway",
+    "Total Confirmed Cases": "8,352",
+    "Total Deaths": "235",
+    "Total Recovered": "7,727"
   },
   {
-    "Region": "50",
-    "Total Confirmed Cases": "Bahrain",
-    "Total Deaths": "+200",
-    "Total Recovered": ""
+    "Region": "Algeria",
+    "Total Confirmed Cases": "8,306",
+    "Total Deaths": "600",
+    "Total Recovered": "4,784"
   },
   {
-    "Region": "51",
-    "Total Confirmed Cases": "Afghanistan",
-    "Total Deaths": "+408",
-    "Total Recovered": "+4"
+    "Region": "Nigeria",
+    "Total Confirmed Cases": "7,839",
+    "Total Deaths": "226",
+    "Total Recovered": "2,263"
   },
   {
-    "Region": "52",
-    "Total Confirmed Cases": "Australia",
-    "Total Deaths": "+15",
-    "Total Recovered": "+1"
+    "Region": "Oman",
+    "Total Confirmed Cases": "7,770",
+    "Total Deaths": "37",
+    "Total Recovered": "1,933"
   },
   {
-    "Region": "53",
-    "Total Confirmed Cases": "Algeria",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Morocco",
+    "Total Confirmed Cases": "7,433",
+    "Total Deaths": "199",
+    "Total Recovered": "4,703"
   },
   {
-    "Region": "54",
-    "Total Confirmed Cases": "Malaysia",
-    "Total Deaths": "+47",
-    "Total Recovered": ""
+    "Region": "Malaysia",
+    "Total Confirmed Cases": "7,417",
+    "Total Deaths": "115",
+    "Total Recovered": "5,979"
   },
   {
-    "Region": "55",
-    "Total Confirmed Cases": "Morocco",
-    "Total Deaths": "+60",
-    "Total Recovered": ""
+    "Region": "Australia",
+    "Total Confirmed Cases": "7,118",
+    "Total Deaths": "102",
+    "Total Recovered": "6,531"
   },
   {
-    "Region": "56",
-    "Total Confirmed Cases": "Kazakhstan",
-    "Total Deaths": "+283",
-    "Total Recovered": ""
+    "Region": "Armenia",
+    "Total Confirmed Cases": "7,113",
+    "Total Deaths": "87",
+    "Total Recovered": "3,145"
   },
   {
-    "Region": "57",
-    "Total Confirmed Cases": "Finland",
-    "Total Deaths": "+33",
-    "Total Recovered": "+2"
+    "Region": "Moldova",
+    "Total Confirmed Cases": "7,093",
+    "Total Deaths": "250",
+    "Total Recovered": "3,713"
   },
   {
-    "Region": "58",
-    "Total Confirmed Cases": "Moldova",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Ghana",
+    "Total Confirmed Cases": "6,808",
+    "Total Deaths": "32",
+    "Total Recovered": "2,070"
   },
   {
-    "Region": "59",
-    "Total Confirmed Cases": "Nigeria",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Finland",
+    "Total Confirmed Cases": "6,579",
+    "Total Deaths": "307",
+    "Total Recovered": "4,800"
   },
   {
-    "Region": "60",
-    "Total Confirmed Cases": "Ghana",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Bolivia",
+    "Total Confirmed Cases": "6,263",
+    "Total Deaths": "250",
+    "Total Recovered": "629"
   },
   {
-    "Region": "61",
-    "Total Confirmed Cases": "Oman",
-    "Total Deaths": "+193",
-    "Total Recovered": "+3"
+    "Region": "Cameroon",
+    "Total Confirmed Cases": "4,890",
+    "Total Deaths": "165",
+    "Total Recovered": "1,865"
   },
   {
-    "Region": "62",
-    "Total Confirmed Cases": "Armenia",
-    "Total Deaths": "+351",
-    "Total Recovered": "+1"
+    "Region": "Iraq",
+    "Total Confirmed Cases": "4,469",
+    "Total Deaths": "160",
+    "Total Recovered": "2,738"
   },
   {
-    "Region": "63",
-    "Total Confirmed Cases": "Bolivia",
-    "Total Deaths": "+262",
-    "Total Recovered": "+4"
+    "Region": "Azerbaijan",
+    "Total Confirmed Cases": "4,122",
+    "Total Deaths": "49",
+    "Total Recovered": "2,607"
   },
   {
-    "Region": "64",
-    "Total Confirmed Cases": "Luxembourg",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Luxembourg",
+    "Total Confirmed Cases": "3,992",
+    "Total Deaths": "110",
+    "Total Recovered": "3,767"
   },
   {
-    "Region": "65",
-    "Total Confirmed Cases": "Hungary",
-    "Total Deaths": "+26",
-    "Total Recovered": "+11"
+    "Region": "Honduras",
+    "Total Confirmed Cases": "3,950",
+    "Total Deaths": "180",
+    "Total Recovered": "468"
   },
   {
-    "Region": "66",
-    "Total Confirmed Cases": "Iraq",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Sudan",
+    "Total Confirmed Cases": "3,820",
+    "Total Deaths": "165",
+    "Total Recovered": "458"
   },
   {
-    "Region": "67",
-    "Total Confirmed Cases": "Azerbaijan",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Hungary",
+    "Total Confirmed Cases": "3,756",
+    "Total Deaths": "491",
+    "Total Recovered": "1,711"
   },
   {
-    "Region": "68",
-    "Total Confirmed Cases": "Cameroon",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Guatemala",
+    "Total Confirmed Cases": "3,424",
+    "Total Deaths": "58",
+    "Total Recovered": "258"
   },
   {
-    "Region": "69",
-    "Total Confirmed Cases": "Thailand",
-    "Total Deaths": "+3",
-    "Total Recovered": ""
+    "Region": "Guinea",
+    "Total Confirmed Cases": "3,275",
+    "Total Deaths": "20",
+    "Total Recovered": "1,673"
   },
   {
-    "Region": "70",
-    "Total Confirmed Cases": "Greece",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Uzbekistan",
+    "Total Confirmed Cases": "3,180",
+    "Total Deaths": "13",
+    "Total Recovered": "2,565"
   },
   {
-    "Region": "71",
-    "Total Confirmed Cases": "Uzbekistan",
-    "Total Deaths": "+26",
-    "Total Recovered": "+1"
+    "Region": "Senegal",
+    "Total Confirmed Cases": "3,047",
+    "Total Deaths": "35",
+    "Total Recovered": "1,456"
   },
   {
-    "Region": "72",
-    "Total Confirmed Cases": "Guinea",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Thailand",
+    "Total Confirmed Cases": "3,042",
+    "Total Deaths": "57",
+    "Total Recovered": "2,928"
   },
   {
-    "Region": "73",
-    "Total Confirmed Cases": "Honduras",
-    "Total Deaths": "+81",
-    "Total Recovered": "+4"
+    "Region": "Tajikistan",
+    "Total Confirmed Cases": "2,929",
+    "Total Deaths": "46",
+    "Total Recovered": "1,301"
   },
   {
-    "Region": "74",
-    "Total Confirmed Cases": "Sudan",
-    "Total Deaths": "+302",
-    "Total Recovered": "+8"
+    "Region": "Greece",
+    "Total Confirmed Cases": "2,878",
+    "Total Deaths": "171",
+    "Total Recovered": "1,374"
   },
   {
-    "Region": "75",
-    "Total Confirmed Cases": "Senegal",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Bulgaria",
+    "Total Confirmed Cases": "2,433",
+    "Total Deaths": "130",
+    "Total Recovered": "862"
   },
   {
-    "Region": "76",
-    "Total Confirmed Cases": "Bosnia and Herzegovina",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Bosnia and Herzegovina",
+    "Total Confirmed Cases": "2,401",
+    "Total Deaths": "144",
+    "Total Recovered": "1,680"
   },
   {
-    "Region": "77",
-    "Total Confirmed Cases": "Bulgaria",
-    "Total Deaths": "+24",
-    "Total Recovered": "+2"
+    "Region": "Ivory Coast",
+    "Total Confirmed Cases": "2,376",
+    "Total Deaths": "30",
+    "Total Recovered": "1,219"
   },
   {
-    "Region": "78",
-    "Total Confirmed Cases": "Croatia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Djibouti",
+    "Total Confirmed Cases": "2,270",
+    "Total Deaths": "10",
+    "Total Recovered": "1,064"
   },
   {
-    "Region": "79",
-    "Total Confirmed Cases": "Ivory Coast",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Croatia",
+    "Total Confirmed Cases": "2,244",
+    "Total Deaths": "99",
+    "Total Recovered": "2,027"
   },
   {
-    "Region": "80",
-    "Total Confirmed Cases": "Guatemala",
-    "Total Deaths": "+149",
-    "Total Recovered": "+2"
+    "Region": "DRC",
+    "Total Confirmed Cases": "2,141",
+    "Total Deaths": "63",
+    "Total Recovered": "317"
   },
   {
-    "Region": "81",
-    "Total Confirmed Cases": "Cuba",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "El Salvador",
+    "Total Confirmed Cases": "1,983",
+    "Total Deaths": "35",
+    "Total Recovered": "698"
   },
   {
-    "Region": "82",
-    "Total Confirmed Cases": "Iceland",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "North Macedonia",
+    "Total Confirmed Cases": "1,978",
+    "Total Deaths": "113",
+    "Total Recovered": "1,422"
   },
   {
-    "Region": "83",
-    "Total Confirmed Cases": "North Macedonia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Cuba",
+    "Total Confirmed Cases": "1,941",
+    "Total Deaths": "82",
+    "Total Recovered": "1,689"
   },
   {
-    "Region": "84",
-    "Total Confirmed Cases": "Estonia",
-    "Total Deaths": "+10",
-    "Total Recovered": "+1"
+    "Region": "Gabon",
+    "Total Confirmed Cases": "1,934",
+    "Total Deaths": "12",
+    "Total Recovered": "459"
   },
   {
-    "Region": "85",
-    "Total Confirmed Cases": "Lithuania",
-    "Total Deaths": "+6",
-    "Total Recovered": "+3"
+    "Region": "Estonia",
+    "Total Confirmed Cases": "1,824",
+    "Total Deaths": "65",
+    "Total Recovered": "1,538"
   },
   {
-    "Region": "86",
-    "Total Confirmed Cases": "Tajikistan",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Iceland",
+    "Total Confirmed Cases": "1,804",
+    "Total Deaths": "10",
+    "Total Recovered": "1,791"
   },
   {
-    "Region": "87",
-    "Total Confirmed Cases": "New Zealand",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Lithuania",
+    "Total Confirmed Cases": "1,635",
+    "Total Deaths": "63",
+    "Total Recovered": "1,138"
   },
   {
-    "Region": "88",
-    "Total Confirmed Cases": "Slovakia",
-    "Total Deaths": "+1",
-    "Total Recovered": ""
+    "Region": "Somalia",
+    "Total Confirmed Cases": "1,594",
+    "Total Deaths": "61",
+    "Total Recovered": "204"
   },
   {
-    "Region": "89",
-    "Total Confirmed Cases": "Slovenia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Mayotte",
+    "Total Confirmed Cases": "1,587",
+    "Total Deaths": "20",
+    "Total Recovered": "894"
   },
   {
-    "Region": "90",
-    "Total Confirmed Cases": "DRC",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Slovakia",
+    "Total Confirmed Cases": "1,511",
+    "Total Deaths": "28",
+    "Total Recovered": "1,307"
   },
   {
-    "Region": "91",
-    "Total Confirmed Cases": "Somalia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "New Zealand",
+    "Total Confirmed Cases": "1,504",
+    "Total Deaths": "21",
+    "Total Recovered": "1,456"
   },
   {
-    "Region": "92",
-    "Total Confirmed Cases": "El Salvador",
-    "Total Deaths": "+75",
-    "Total Recovered": "+3"
+    "Region": "Slovenia",
+    "Total Confirmed Cases": "1,468",
+    "Total Deaths": "107",
+    "Total Recovered": "1,340"
   },
   {
-    "Region": "93",
-    "Total Confirmed Cases": "Djibouti",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Kyrgyzstan",
+    "Total Confirmed Cases": "1,433",
+    "Total Deaths": "16",
+    "Total Recovered": "992"
   },
   {
-    "Region": "94",
-    "Total Confirmed Cases": "Mayotte",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Maldives",
+    "Total Confirmed Cases": "1,371",
+    "Total Deaths": "4",
+    "Total Recovered": "144"
   },
   {
-    "Region": "95",
-    "Total Confirmed Cases": "Gabon",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Kenya",
+    "Total Confirmed Cases": "1,214",
+    "Total Deaths": "51",
+    "Total Recovered": "383"
   },
   {
-    "Region": "96",
-    "Total Confirmed Cases": "Kyrgyzstan",
-    "Total Deaths": "+78",
-    "Total Recovered": ""
+    "Region": "Sri Lanka",
+    "Total Confirmed Cases": "1,141",
+    "Total Deaths": "9",
+    "Total Recovered": "695"
   },
   {
-    "Region": "97",
-    "Total Confirmed Cases": "Maldives",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Venezuela",
+    "Total Confirmed Cases": "1,121",
+    "Total Deaths": "10",
+    "Total Recovered": "262"
   },
   {
-    "Region": "98",
-    "Total Confirmed Cases": "Hong Kong",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Lebanon",
+    "Total Confirmed Cases": "1,114",
+    "Total Deaths": "26",
+    "Total Recovered": "688"
   },
   {
-    "Region": "99",
-    "Total Confirmed Cases": "Tunisia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Guinea-Bissau",
+    "Total Confirmed Cases": "1,114",
+    "Total Deaths": "6",
+    "Total Recovered": "42"
   },
   {
-    "Region": "100",
-    "Total Confirmed Cases": "Latvia",
-    "Total Deaths": "+1",
-    "Total Recovered": ""
+    "Region": "Hong Kong",
+    "Total Confirmed Cases": "1,066",
+    "Total Deaths": "4",
+    "Total Recovered": "1,030"
   },
   {
-    "Region": "101",
-    "Total Confirmed Cases": "Guinea-Bissau",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Tunisia",
+    "Total Confirmed Cases": "1,051",
+    "Total Deaths": "48",
+    "Total Recovered": "917"
   },
   {
-    "Region": "102",
-    "Total Confirmed Cases": "Sri Lanka",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Latvia",
+    "Total Confirmed Cases": "1,049",
+    "Total Deaths": "22",
+    "Total Recovered": "712"
   },
   {
-    "Region": "103",
-    "Total Confirmed Cases": "Albania",
-    "Total Deaths": "+2",
-    "Total Recovered": ""
+    "Region": "Mali",
+    "Total Confirmed Cases": "1,030",
+    "Total Deaths": "65",
+    "Total Recovered": "597"
   },
   {
-    "Region": "104",
-    "Total Confirmed Cases": "Cyprus",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Albania",
+    "Total Confirmed Cases": "998",
+    "Total Deaths": "32",
+    "Total Recovered": "789"
   },
   {
-    "Region": "105",
-    "Total Confirmed Cases": "Lebanon",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Equatorial Guinea",
+    "Total Confirmed Cases": "960",
+    "Total Deaths": "11",
+    "Total Recovered": "165"
   },
   {
-    "Region": "106",
-    "Total Confirmed Cases": "Niger",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Haiti",
+    "Total Confirmed Cases": "958",
+    "Total Deaths": "27",
+    "Total Recovered": "22"
   },
   {
-    "Region": "107",
-    "Total Confirmed Cases": "Kenya",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Niger",
+    "Total Confirmed Cases": "945",
+    "Total Deaths": "61",
+    "Total Recovered": "783"
   },
   {
-    "Region": "108",
-    "Total Confirmed Cases": "Mali",
-    "Total Deaths": "+14",
-    "Total Recovered": ""
+    "Region": "Cyprus",
+    "Total Confirmed Cases": "935",
+    "Total Deaths": "17",
+    "Total Recovered": "594"
   },
   {
-    "Region": "109",
-    "Total Confirmed Cases": "Costa Rica",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Costa Rica",
+    "Total Confirmed Cases": "930",
+    "Total Deaths": "10",
+    "Total Recovered": "620"
   },
   {
-    "Region": "110",
-    "Total Confirmed Cases": "Burkina Faso",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Zambia",
+    "Total Confirmed Cases": "920",
+    "Total Deaths": "7",
+    "Total Recovered": "336"
   },
   {
-    "Region": "111",
-    "Total Confirmed Cases": "Paraguay",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Paraguay",
+    "Total Confirmed Cases": "862",
+    "Total Deaths": "11",
+    "Total Recovered": "307"
   },
   {
-    "Region": "112",
-    "Total Confirmed Cases": "Andorra",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Burkina Faso",
+    "Total Confirmed Cases": "814",
+    "Total Deaths": "52",
+    "Total Recovered": "672"
   },
   {
-    "Region": "113",
-    "Total Confirmed Cases": "Zambia",
-    "Total Deaths": "+8",
-    "Total Recovered": ""
+    "Region": "Uruguay",
+    "Total Confirmed Cases": "769",
+    "Total Deaths": "22",
+    "Total Recovered": "618"
   },
   {
-    "Region": "114",
-    "Total Confirmed Cases": "Uruguay",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Andorra",
+    "Total Confirmed Cases": "762",
+    "Total Deaths": "51",
+    "Total Recovered": "653"
   },
   {
-    "Region": "115",
-    "Total Confirmed Cases": "Diamond Princess",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Georgia",
+    "Total Confirmed Cases": "731",
+    "Total Deaths": "12",
+    "Total Recovered": "526"
   },
   {
-    "Region": "116",
-    "Total Confirmed Cases": "Georgia",
-    "Total Deaths": "+6",
-    "Total Recovered": ""
+    "Region": "Diamond Princess",
+    "Total Confirmed Cases": "712",
+    "Total Deaths": "13",
+    "Total Recovered": "651"
   },
   {
-    "Region": "117",
-    "Total Confirmed Cases": "San Marino",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Jordan",
+    "Total Confirmed Cases": "708",
+    "Total Deaths": "9",
+    "Total Recovered": "471"
   },
   {
-    "Region": "118",
-    "Total Confirmed Cases": "Jordan",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Sierra Leone",
+    "Total Confirmed Cases": "707",
+    "Total Deaths": "40",
+    "Total Recovered": "241"
   },
   {
-    "Region": "119",
-    "Total Confirmed Cases": "Equatorial Guinea",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Chad",
+    "Total Confirmed Cases": "675",
+    "Total Deaths": "60",
+    "Total Recovered": "215"
   },
   {
-    "Region": "120",
-    "Total Confirmed Cases": "Malta",
-    "Total Deaths": "+5",
-    "Total Recovered": ""
+    "Region": "Nepal",
+    "Total Confirmed Cases": "675",
+    "Total Deaths": "3",
+    "Total Recovered": "87"
   },
   {
-    "Region": "121",
-    "Total Confirmed Cases": "Channel Islands",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "San Marino",
+    "Total Confirmed Cases": "665",
+    "Total Deaths": "42",
+    "Total Recovered": "266"
   },
   {
-    "Region": "122",
-    "Total Confirmed Cases": "Venezuela",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "South Sudan",
+    "Total Confirmed Cases": "655",
+    "Total Deaths": "8",
+    "Total Recovered": "6"
   },
   {
-    "Region": "123",
-    "Total Confirmed Cases": "Jamaica",
-    "Total Deaths": "+3",
-    "Total Recovered": ""
+    "Region": "Malta",
+    "Total Confirmed Cases": "610",
+    "Total Deaths": "6",
+    "Total Recovered": "476"
   },
   {
-    "Region": "124",
-    "Total Confirmed Cases": "Tanzania",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "CAR",
+    "Total Confirmed Cases": "604",
+    "Total Deaths": "1",
+    "Total Recovered": "22"
   },
   {
-    "Region": "125",
-    "Total Confirmed Cases": "Sierra Leone",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Ethiopia",
+    "Total Confirmed Cases": "582",
+    "Total Deaths": "5",
+    "Total Recovered": "152"
   },
   {
-    "Region": "126",
-    "Total Confirmed Cases": "Chad",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Channel Islands",
+    "Total Confirmed Cases": "558",
+    "Total Deaths": "45",
+    "Total Recovered": "517"
   },
   {
-    "Region": "127",
-    "Total Confirmed Cases": "Haiti",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Jamaica",
+    "Total Confirmed Cases": "552",
+    "Total Deaths": "9",
+    "Total Recovered": "211"
   },
   {
-    "Region": "128",
-    "Total Confirmed Cases": "Réunion",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Madagascar",
+    "Total Confirmed Cases": "527",
+    "Total Deaths": "2",
+    "Total Recovered": "142"
   },
   {
-    "Region": "129",
-    "Total Confirmed Cases": "Taiwan",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Tanzania",
+    "Total Confirmed Cases": "509",
+    "Total Deaths": "21",
+    "Total Recovered": "183"
   },
   {
-    "Region": "130",
-    "Total Confirmed Cases": "Congo",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Congo",
+    "Total Confirmed Cases": "487",
+    "Total Deaths": "16",
+    "Total Recovered": "147"
   },
   {
-    "Region": "131",
-    "Total Confirmed Cases": "Palestine",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Réunion",
+    "Total Confirmed Cases": "452",
+    "Total Deaths": "1",
+    "Total Recovered": "411"
   },
   {
-    "Region": "132",
-    "Total Confirmed Cases": "Nepal",
-    "Total Deaths": "+62",
-    "Total Recovered": ""
+    "Region": "Taiwan",
+    "Total Confirmed Cases": "441",
+    "Total Deaths": "7",
+    "Total Recovered": "415"
   },
   {
-    "Region": "133",
-    "Total Confirmed Cases": "Ethiopia",
-    "Total Deaths": "+35",
-    "Total Recovered": ""
+    "Region": "Palestine",
+    "Total Confirmed Cases": "423",
+    "Total Deaths": "3",
+    "Total Recovered": "357"
   },
   {
-    "Region": "134",
-    "Total Confirmed Cases": "Benin",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Togo",
+    "Total Confirmed Cases": "381",
+    "Total Deaths": "12",
+    "Total Recovered": "141"
   },
   {
-    "Region": "135",
-    "Total Confirmed Cases": "Isle of Man",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Cabo Verde",
+    "Total Confirmed Cases": "380",
+    "Total Deaths": "3",
+    "Total Recovered": "155"
   },
   {
-    "Region": "136",
-    "Total Confirmed Cases": "Mauritius",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Isle of Man",
+    "Total Confirmed Cases": "336",
+    "Total Deaths": "24",
+    "Total Recovered": "303"
   },
   {
-    "Region": "137",
-    "Total Confirmed Cases": "Cabo Verde",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Mauritius",
+    "Total Confirmed Cases": "334",
+    "Total Deaths": "10",
+    "Total Recovered": "322"
   },
   {
-    "Region": "138",
-    "Total Confirmed Cases": "CAR",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "French Guiana",
+    "Total Confirmed Cases": "328",
+    "Total Deaths": "1",
+    "Total Recovered": "145"
   },
   {
-    "Region": "139",
-    "Total Confirmed Cases": "Montenegro",
+    "Region": "Rwanda",
+    "Total Confirmed Cases": "327",
     "Total Deaths": "",
-    "Total Recovered": ""
-  },
-  {
-    "Region": "140",
-    "Total Confirmed Cases": "Vietnam",
-    "Total Deaths": "+4",
-    "Total Recovered": ""
-  },
-  {
-    "Region": "141",
-    "Total Confirmed Cases": "Madagascar",
-    "Total Deaths": "+18",
-    "Total Recovered": ""
+    "Total Recovered": "237"
   },
   {
-    "Region": "142",
-    "Total Confirmed Cases": "Togo",
+    "Region": "Vietnam",
+    "Total Confirmed Cases": "325",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "267"
   },
   {
-    "Region": "143",
-    "Total Confirmed Cases": "Rwanda",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Montenegro",
+    "Total Confirmed Cases": "324",
+    "Total Deaths": "9",
+    "Total Recovered": "315"
   },
   {
-    "Region": "144",
-    "Total Confirmed Cases": "South Sudan",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Nicaragua",
+    "Total Confirmed Cases": "279",
+    "Total Deaths": "17",
+    "Total Recovered": "199"
   },
   {
-    "Region": "145",
-    "Total Confirmed Cases": "Uganda",
-    "Total Deaths": "+21",
-    "Total Recovered": ""
+    "Region": "Liberia",
+    "Total Confirmed Cases": "265",
+    "Total Deaths": "26",
+    "Total Recovered": "139"
   },
   {
-    "Region": "146",
-    "Total Confirmed Cases": "Sao Tome and Principe",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Sao Tome and Principe",
+    "Total Confirmed Cases": "251",
+    "Total Deaths": "8",
+    "Total Recovered": "4"
   },
   {
-    "Region": "147",
-    "Total Confirmed Cases": "Liberia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Eswatini",
+    "Total Confirmed Cases": "250",
+    "Total Deaths": "2",
+    "Total Recovered": "156"
   },
   {
-    "Region": "148",
-    "Total Confirmed Cases": "Eswatini",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Mauritania",
+    "Total Confirmed Cases": "237",
+    "Total Deaths": "6",
+    "Total Recovered": "15"
   },
   {
-    "Region": "149",
-    "Total Confirmed Cases": "French Guiana",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Yemen",
+    "Total Confirmed Cases": "222",
+    "Total Deaths": "42",
+    "Total Recovered": "10"
   },
   {
-    "Region": "150",
-    "Total Confirmed Cases": "Martinique",
+    "Region": "Uganda",
+    "Total Confirmed Cases": "212",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "68"
   },
   {
-    "Region": "151",
-    "Total Confirmed Cases": "Myanmar",
-    "Total Deaths": "+3",
-    "Total Recovered": ""
+    "Region": "Myanmar",
+    "Total Confirmed Cases": "201",
+    "Total Deaths": "6",
+    "Total Recovered": "122"
   },
   {
-    "Region": "152",
-    "Total Confirmed Cases": "Faeroe Islands",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Martinique",
+    "Total Confirmed Cases": "197",
+    "Total Deaths": "14",
+    "Total Recovered": "91"
   },
   {
-    "Region": "153",
-    "Total Confirmed Cases": "Guadeloupe",
+    "Region": "Mozambique",
+    "Total Confirmed Cases": "194",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "51"
   },
   {
-    "Region": "154",
-    "Total Confirmed Cases": "Gibraltar",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Benin",
+    "Total Confirmed Cases": "191",
+    "Total Deaths": "3",
+    "Total Recovered": "82"
   },
   {
-    "Region": "155",
-    "Total Confirmed Cases": "Brunei",
+    "Region": "Faeroe Islands",
+    "Total Confirmed Cases": "187",
     "Total Deaths": "",
-    "Total Recovered": ""
-  },
-  {
-    "Region": "156",
-    "Total Confirmed Cases": "Mongolia",
-    "Total Deaths": "+4",
-    "Total Recovered": ""
+    "Total Recovered": "187"
   },
   {
-    "Region": "157",
-    "Total Confirmed Cases": "Mozambique",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Guadeloupe",
+    "Total Confirmed Cases": "161",
+    "Total Deaths": "14",
+    "Total Recovered": "115"
   },
   {
-    "Region": "158",
-    "Total Confirmed Cases": "Yemen",
+    "Region": "Gibraltar",
+    "Total Confirmed Cases": "154",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "147"
   },
   {
-    "Region": "159",
-    "Total Confirmed Cases": "Bermuda",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Brunei",
+    "Total Confirmed Cases": "141",
+    "Total Deaths": "1",
+    "Total Recovered": "137"
   },
   {
-    "Region": "160",
-    "Total Confirmed Cases": "Cambodia",
+    "Region": "Mongolia",
+    "Total Confirmed Cases": "141",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "33"
   },
   {
-    "Region": "161",
-    "Total Confirmed Cases": "Guyana",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Guyana",
+    "Total Confirmed Cases": "135",
+    "Total Deaths": "10",
+    "Total Recovered": "62"
   },
   {
-    "Region": "162",
-    "Total Confirmed Cases": "Trinidad and Tobago",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Bermuda",
+    "Total Confirmed Cases": "133",
+    "Total Deaths": "9",
+    "Total Recovered": "81"
   },
   {
-    "Region": "163",
-    "Total Confirmed Cases": "Aruba",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Cayman Islands",
+    "Total Confirmed Cases": "129",
+    "Total Deaths": "1",
+    "Total Recovered": "61"
   },
   {
-    "Region": "164",
-    "Total Confirmed Cases": "Bahamas",
+    "Region": "Cambodia",
+    "Total Confirmed Cases": "124",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "122"
   },
   {
-    "Region": "165",
-    "Total Confirmed Cases": "Monaco",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Trinidad and Tobago",
+    "Total Confirmed Cases": "116",
+    "Total Deaths": "8",
+    "Total Recovered": "108"
   },
   {
-    "Region": "166",
-    "Total Confirmed Cases": "Cayman Islands",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Syria",
+    "Total Confirmed Cases": "106",
+    "Total Deaths": "4",
+    "Total Recovered": "41"
   },
   {
-    "Region": "167",
-    "Total Confirmed Cases": "Barbados",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Aruba",
+    "Total Confirmed Cases": "101",
+    "Total Deaths": "3",
+    "Total Recovered": "95"
   },
   {
-    "Region": "168",
-    "Total Confirmed Cases": "Liechtenstein",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Bahamas",
+    "Total Confirmed Cases": "100",
+    "Total Deaths": "11",
+    "Total Recovered": "46"
   },
   {
-    "Region": "169",
-    "Total Confirmed Cases": "Sint Maarten",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Monaco",
+    "Total Confirmed Cases": "98",
+    "Total Deaths": "4",
+    "Total Recovered": "90"
   },
   {
-    "Region": "170",
-    "Total Confirmed Cases": "Malawi",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Barbados",
+    "Total Confirmed Cases": "92",
+    "Total Deaths": "7",
+    "Total Recovered": "70"
   },
   {
-    "Region": "171",
-    "Total Confirmed Cases": "Libya",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Comoros",
+    "Total Confirmed Cases": "87",
+    "Total Deaths": "1",
+    "Total Recovered": "21"
   },
   {
-    "Region": "172",
-    "Total Confirmed Cases": "Mauritania",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Malawi",
+    "Total Confirmed Cases": "83",
+    "Total Deaths": "4",
+    "Total Recovered": "33"
   },
   {
-    "Region": "173",
-    "Total Confirmed Cases": "French Polynesia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Liechtenstein",
+    "Total Confirmed Cases": "82",
+    "Total Deaths": "1",
+    "Total Recovered": "55"
   },
   {
-    "Region": "174",
-    "Total Confirmed Cases": "Syria",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Sint Maarten",
+    "Total Confirmed Cases": "77",
+    "Total Deaths": "15",
+    "Total Recovered": "59"
   },
   {
-    "Region": "175",
-    "Total Confirmed Cases": "Angola",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Libya",
+    "Total Confirmed Cases": "75",
+    "Total Deaths": "3",
+    "Total Recovered": "39"
   },
   {
-    "Region": "176",
-    "Total Confirmed Cases": "Macao",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Angola",
+    "Total Confirmed Cases": "69",
+    "Total Deaths": "4",
+    "Total Recovered": "18"
   },
   {
-    "Region": "177",
-    "Total Confirmed Cases": "Zimbabwe",
+    "Region": "French Polynesia",
+    "Total Confirmed Cases": "60",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "60"
   },
   {
-    "Region": "178",
-    "Total Confirmed Cases": "Burundi",
-    "Total Deaths": "+19",
-    "Total Recovered": ""
+    "Region": "Zimbabwe",
+    "Total Confirmed Cases": "56",
+    "Total Deaths": "4",
+    "Total Recovered": "25"
   },
   {
-    "Region": "179",
-    "Total Confirmed Cases": "Saint Martin",
+    "Region": "Macao",
+    "Total Confirmed Cases": "45",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "45"
   },
   {
-    "Region": "180",
-    "Total Confirmed Cases": "Eritrea",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Burundi",
+    "Total Confirmed Cases": "42",
+    "Total Deaths": "1",
+    "Total Recovered": "20"
   },
   {
-    "Region": "181",
-    "Total Confirmed Cases": "Nicaragua",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Saint Martin",
+    "Total Confirmed Cases": "40",
+    "Total Deaths": "3",
+    "Total Recovered": "33"
   },
   {
-    "Region": "182",
-    "Total Confirmed Cases": "Antigua and Barbuda",
+    "Region": "Eritrea",
+    "Total Confirmed Cases": "39",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "39"
   },
   {
-    "Region": "183",
-    "Total Confirmed Cases": "Botswana",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Botswana",
+    "Total Confirmed Cases": "35",
+    "Total Deaths": "1",
+    "Total Recovered": "19"
   },
   {
-    "Region": "184",
-    "Total Confirmed Cases": "Timor-Leste",
+    "Region": "Bhutan",
+    "Total Confirmed Cases": "27",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "6"
   },
   {
-    "Region": "185",
-    "Total Confirmed Cases": "Gambia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Antigua and Barbuda",
+    "Total Confirmed Cases": "25",
+    "Total Deaths": "3",
+    "Total Recovered": "19"
   },
   {
-    "Region": "186",
-    "Total Confirmed Cases": "Grenada",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Gambia",
+    "Total Confirmed Cases": "25",
+    "Total Deaths": "1",
+    "Total Recovered": "13"
   },
   {
-    "Region": "187",
-    "Total Confirmed Cases": "Bhutan",
+    "Region": "Timor-Leste",
+    "Total Confirmed Cases": "24",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "24"
   },
   {
-    "Region": "188",
-    "Total Confirmed Cases": "Laos",
+    "Region": "Grenada",
+    "Total Confirmed Cases": "22",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "17"
   },
   {
-    "Region": "189",
-    "Total Confirmed Cases": "Belize",
+    "Region": "Namibia",
+    "Total Confirmed Cases": "21",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "14"
   },
   {
-    "Region": "190",
-    "Total Confirmed Cases": "Fiji",
+    "Region": "Laos",
+    "Total Confirmed Cases": "19",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "14"
   },
   {
-    "Region": "191",
-    "Total Confirmed Cases": "New Caledonia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Belize",
+    "Total Confirmed Cases": "18",
+    "Total Deaths": "2",
+    "Total Recovered": "16"
   },
   {
-    "Region": "192",
-    "Total Confirmed Cases": "Saint Lucia",
+    "Region": "Fiji",
+    "Total Confirmed Cases": "18",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "15"
   },
   {
-    "Region": "193",
-    "Total Confirmed Cases": "St. Vincent Grenadines",
+    "Region": "New Caledonia",
+    "Total Confirmed Cases": "18",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "18"
   },
   {
-    "Region": "194",
-    "Total Confirmed Cases": "Curaçao",
+    "Region": "Saint Lucia",
+    "Total Confirmed Cases": "18",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "18"
   },
   {
-    "Region": "195",
-    "Total Confirmed Cases": "Dominica",
+    "Region": "St. Vincent Grenadines",
+    "Total Confirmed Cases": "18",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "14"
   },
   {
-    "Region": "196",
-    "Total Confirmed Cases": "Namibia",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Curaçao",
+    "Total Confirmed Cases": "17",
+    "Total Deaths": "1",
+    "Total Recovered": "14"
   },
   {
-    "Region": "197",
-    "Total Confirmed Cases": "Saint Kitts and Nevis",
+    "Region": "Dominica",
+    "Total Confirmed Cases": "16",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "16"
   },
   {
-    "Region": "198",
-    "Total Confirmed Cases": "Falkland Islands",
+    "Region": "Saint Kitts and Nevis",
+    "Total Confirmed Cases": "15",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "15"
   },
   {
-    "Region": "199",
-    "Total Confirmed Cases": "Turks and Caicos",
+    "Region": "Falkland Islands",
+    "Total Confirmed Cases": "13",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "13"
   },
   {
-    "Region": "200",
-    "Total Confirmed Cases": "Vatican City",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Turks and Caicos",
+    "Total Confirmed Cases": "12",
+    "Total Deaths": "1",
+    "Total Recovered": "10"
   },
   {
-    "Region": "201",
-    "Total Confirmed Cases": "Comoros",
+    "Region": "Greenland",
+    "Total Confirmed Cases": "12",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "11"
   },
   {
-    "Region": "202",
-    "Total Confirmed Cases": "Montserrat",
+    "Region": "Vatican City",
+    "Total Confirmed Cases": "12",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "2"
   },
   {
-    "Region": "203",
-    "Total Confirmed Cases": "Greenland",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Montserrat",
+    "Total Confirmed Cases": "11",
+    "Total Deaths": "1",
+    "Total Recovered": "10"
   },
   {
-    "Region": "204",
-    "Total Confirmed Cases": "Seychelles",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "Suriname",
+    "Total Confirmed Cases": "11",
+    "Total Deaths": "1",
+    "Total Recovered": "9"
   },
   {
-    "Region": "205",
-    "Total Confirmed Cases": "Suriname",
+    "Region": "Seychelles",
+    "Total Confirmed Cases": "11",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "11"
   },
   {
-    "Region": "206",
-    "Total Confirmed Cases": "MS Zaandam",
-    "Total Deaths": "",
+    "Region": "MS Zaandam",
+    "Total Confirmed Cases": "9",
+    "Total Deaths": "2",
     "Total Recovered": ""
   },
   {
-    "Region": "207",
-    "Total Confirmed Cases": "British Virgin Islands",
+    "Region": "Western Sahara",
+    "Total Confirmed Cases": "9",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "6"
   },
   {
-    "Region": "208",
-    "Total Confirmed Cases": "Papua New Guinea",
-    "Total Deaths": "",
-    "Total Recovered": ""
+    "Region": "British Virgin Islands",
+    "Total Confirmed Cases": "8",
+    "Total Deaths": "1",
+    "Total Recovered": "6"
   },
   {
-    "Region": "209",
-    "Total Confirmed Cases": "Caribbean Netherlands",
+    "Region": "Papua New Guinea",
+    "Total Confirmed Cases": "8",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "8"
   },
   {
-    "Region": "210",
-    "Total Confirmed Cases": "St. Barth",
+    "Region": "Caribbean Netherlands",
+    "Total Confirmed Cases": "6",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "6"
   },
   {
-    "Region": "211",
-    "Total Confirmed Cases": "Western Sahara",
+    "Region": "St. Barth",
+    "Total Confirmed Cases": "6",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "6"
   },
   {
-    "Region": "212",
-    "Total Confirmed Cases": "Anguilla",
+    "Region": "Anguilla",
+    "Total Confirmed Cases": "3",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "3"
   },
   {
-    "Region": "213",
-    "Total Confirmed Cases": "Lesotho",
+    "Region": "Lesotho",
+    "Total Confirmed Cases": "2",
     "Total Deaths": "",
     "Total Recovered": ""
   },
   {
-    "Region": "214",
-    "Total Confirmed Cases": "Saint Pierre Miquelon",
+    "Region": "Saint Pierre Miquelon",
+    "Total Confirmed Cases": "1",
     "Total Deaths": "",
-    "Total Recovered": ""
+    "Total Recovered": "1"
   },
   {
-    "Region": "215",
-    "Total Confirmed Cases": "China",
-    "Total Deaths": "+7",
-    "Total Recovered": ""
+    "Region": "China",
+    "Total Confirmed Cases": "82,985",
+    "Total Deaths": "4,634",
+    "Total Recovered": "78,268"
   }
 ]
