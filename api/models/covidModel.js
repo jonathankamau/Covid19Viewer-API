@@ -18,22 +18,23 @@ const countrySchema = new Schema ({
 
     total_confirmed_cases: {
         type: Number,
-        default: ""
+        default: 0
     },
 
     total_deaths: {
         type: Number,
-        default: ""
+        default: 0
     },
 
     total_recovered: {
         type: Number,
-        default: ""
+        default: 0
     }
 
 
 });
 
 export const Country = mongoose.model('Country', countrySchema);
-//module.exports = mongoose.model('CountryData', countryDetailsSchema);
+export const countryDetails = mongoose.model('countryDetails', countryDetailsSchema);
+
 

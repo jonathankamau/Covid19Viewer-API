@@ -10,27 +10,27 @@ var db = mongoose.connection;
 
 db.on('error', console.error);
 
-db.once('open', function () {
+db.dropDatabase();
 
-    console.log("db connect");
+// db.once('open', function () {
 
-    db.dropCollection("countries", function (err, result) {
+//     console.log("db connect");
 
-        if (err) {
+//     db.dropCollection("countries", function (err, result) {
 
-            console.log("error delete collection");
+//         if (err) {
 
-        } else {
+//             console.log("error delete collection");
 
-            console.log("delete collection success");
+//         } else {
 
-        }
+//             console.log("delete collection success");
 
-    });
+//         }
 
- 
+//     });
 
-});
+// });
 
 mongoose.Promise = global.Promise;
 mongoose.connect('mongodb://localhost/Coviddb');

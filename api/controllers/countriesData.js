@@ -5,7 +5,7 @@ import mongoose from 'mongoose';
 const siteUrl = "https://www.worldometers.info/coronavirus/";
 const countries = new Array();
 const Country = mongoose.model('Country');
-//const countryData = mongoose.model('CountryData');
+const countryDetails = mongoose.model('countryDetails');
 
 
 export const getCountriesData = async () => {
@@ -16,10 +16,6 @@ export const getCountriesData = async () => {
         "table").first().find("tbody").first().find("tr")
     .each( (index, element) => {
         let tds = $(element).find("td");
-
-        // let country = {
-        //     "Region": $(tds[1]).text().trim(),
-        // }
         
         let countryData =
             {
@@ -32,8 +28,18 @@ export const getCountriesData = async () => {
         const newCountry = new Country({name: $(tds[1]).text().trim()});
         newCountry.save(function (err, country) {
             if (err) return console.error(err);
-            console.log(country.name + " has been successfully saved!");
           });
+
+        const newCountryDetails = new countryDetails({
+            region: $(tds[1]).text().trim(),
+            total_confirmed_cases: parseInt($(tds[2]).text().trim().replace(/,/g, '')) || 0,
+            total_deaths: parseInt($(tds[4]).text().trim().replace(/,/g, '')) || 0,
+            total_recovered: parseInt($(tds[6]).text().trim().replace(/,/g, '')) || 0
+        });
+
+        newCountryDetails.save(function (err, country) {
+            if (err) return console.error(err);
+        });
 
         countries.push(countryData);  
 
