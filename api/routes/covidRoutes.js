@@ -21,7 +21,7 @@ router.get('/countries', (req, res) => {
 });
 
 router.get('/searchcountry', async (req, res) => {
-    countryDetails.find({region: req.query})
+    countryDetails.find({region: req.query.search})
     .then(result => {
       res.status(200).json({
         result
@@ -35,7 +35,7 @@ router.get('/searchcountry', async (req, res) => {
 });
 
 router.get('/allcountries', (req, res) => {
-  Countries.find({}, function(err, country) {
+  countryDetails.find({}, function(err, country) {
       if (err)
         res.status(500).send(err);
   
