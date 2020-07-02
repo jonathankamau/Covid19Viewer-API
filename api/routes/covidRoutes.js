@@ -12,22 +12,36 @@ getCountriesData();
 router.get('/countries', (req, res) => {
     Countries.find({}, function(err, country) {
         if (err)
-          res.send(err);
-          //console.log('HERE', country);
-        res.json(country);
+          res.status(500).send(err);
+    
+        res.status(200).json(country);
         
       });
 
 });
 
-router.get('/countries', (req, res) => {
-    countryDetails.find({}, function(err, country) {
-        if (err)
-          res.send(err);
-          //console.log('HERE', country);
-        res.json(country);
+router.get('/searchcountry', async (req, res) => {
+    countryDetails.find({region: req.query.search})
+    .then(result => {
+      res.status(200).json({
+        result
+      })
+    })
+   .catch(err => {
+        res.status(500).send(err);
         
       });
+
+});
+
+router.get('/allcountries', (req, res) => {
+  countryDetails.find({}, function(err, country) {
+      if (err)
+        res.status(500).send(err);
+  
+      res.status(200).json(country);
+      
+    });
 
 });
 
