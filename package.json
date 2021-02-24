@@ -24,7 +24,7 @@
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1",
     "mongodb": "^3.6.0",
-    "mongoose": "^5.9.15",
+    "mongoose": "^5.11.18",
     "nodemon": "^2.0.4",
     "request": "^2.88.2",
     "request-promise": "^4.2.6"
